@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sobre carga de metodo/1.0.0": {
+        "runtime": {
+          "Sobre carga de metodo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sobre carga de metodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\obj\Debug\net8.0\Sobre carga de metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\obj\Debug\net8.0\Sobre carga de metodo.AssemblyInfoInputs.cache
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\obj\Debug\net8.0\Sobre carga de metodo.AssemblyInfo.cs
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\obj\Debug\net8.0\Sobre carga de metodo.csproj.CoreCompileInputs.cache
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\bin\Debug\net8.0\Sobre carga de metodo.exe
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\bin\Debug\net8.0\Sobre carga de metodo.deps.json
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\bin\Debug\net8.0\Sobre carga de metodo.runtimeconfig.json
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\bin\Debug\net8.0\Sobre carga de metodo.dll
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\bin\Debug\net8.0\Sobre carga de metodo.pdb
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\obj\Debug\net8.0\Sobre carga de metodo.dll
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\obj\Debug\net8.0\refint\Sobre carga de metodo.dll
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\obj\Debug\net8.0\Sobre carga de metodo.pdb
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\obj\Debug\net8.0\Sobre carga de metodo.genruntimeconfig.cache
+C:\Users\Baloo\Documents\Proyectos C#\Sobre carga de metodo\obj\Debug\net8.0\ref\Sobre carga de metodo.dll

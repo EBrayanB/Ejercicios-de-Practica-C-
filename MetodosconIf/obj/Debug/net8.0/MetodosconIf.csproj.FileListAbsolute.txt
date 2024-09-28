@@ -1,0 +1,14 @@
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\bin\Debug\net8.0\MetodosconIf.exe
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\bin\Debug\net8.0\MetodosconIf.deps.json
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\bin\Debug\net8.0\MetodosconIf.runtimeconfig.json
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\bin\Debug\net8.0\MetodosconIf.dll
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\bin\Debug\net8.0\MetodosconIf.pdb
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\obj\Debug\net8.0\MetodosconIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\obj\Debug\net8.0\MetodosconIf.AssemblyInfoInputs.cache
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\obj\Debug\net8.0\MetodosconIf.AssemblyInfo.cs
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\obj\Debug\net8.0\MetodosconIf.csproj.CoreCompileInputs.cache
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\obj\Debug\net8.0\MetodosconIf.dll
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\obj\Debug\net8.0\refint\MetodosconIf.dll
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\obj\Debug\net8.0\MetodosconIf.pdb
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\obj\Debug\net8.0\MetodosconIf.genruntimeconfig.cache
+C:\Users\Baloo\Documents\Proyectos C#\MetodosconIf\obj\Debug\net8.0\ref\MetodosconIf.dll
