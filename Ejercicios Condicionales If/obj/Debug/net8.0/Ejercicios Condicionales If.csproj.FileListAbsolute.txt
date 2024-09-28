@@ -1,0 +1,14 @@
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\bin\Debug\net8.0\Ejercicios Condicionales If.exe
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\bin\Debug\net8.0\Ejercicios Condicionales If.deps.json
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\bin\Debug\net8.0\Ejercicios Condicionales If.runtimeconfig.json
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\bin\Debug\net8.0\Ejercicios Condicionales If.dll
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\bin\Debug\net8.0\Ejercicios Condicionales If.pdb
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\obj\Debug\net8.0\Ejercicios Condicionales If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\obj\Debug\net8.0\Ejercicios Condicionales If.AssemblyInfoInputs.cache
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\obj\Debug\net8.0\Ejercicios Condicionales If.AssemblyInfo.cs
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\obj\Debug\net8.0\Ejercicios Condicionales If.csproj.CoreCompileInputs.cache
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\obj\Debug\net8.0\Ejercicios Condicionales If.dll
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\obj\Debug\net8.0\refint\Ejercicios Condicionales If.dll
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\obj\Debug\net8.0\Ejercicios Condicionales If.pdb
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\obj\Debug\net8.0\Ejercicios Condicionales If.genruntimeconfig.cache
+C:\Users\Baloo\Documents\Proyectos C#\Ejercicios Condicionales If\obj\Debug\net8.0\ref\Ejercicios Condicionales If.dll

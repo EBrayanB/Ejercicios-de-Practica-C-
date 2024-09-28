@@ -1,0 +1,14 @@
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\bin\Debug\net8.0\Declaracion de variables.exe
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\bin\Debug\net8.0\Declaracion de variables.deps.json
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\bin\Debug\net8.0\Declaracion de variables.runtimeconfig.json
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\bin\Debug\net8.0\Declaracion de variables.dll
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\bin\Debug\net8.0\Declaracion de variables.pdb
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\obj\Debug\net8.0\Declaracion de variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\obj\Debug\net8.0\Declaracion de variables.AssemblyInfoInputs.cache
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\obj\Debug\net8.0\Declaracion de variables.AssemblyInfo.cs
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\obj\Debug\net8.0\Declaracion de variables.csproj.CoreCompileInputs.cache
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\obj\Debug\net8.0\Declaracion de variables.dll
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\obj\Debug\net8.0\refint\Declaracion de variables.dll
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\obj\Debug\net8.0\Declaracion de variables.pdb
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\obj\Debug\net8.0\Declaracion de variables.genruntimeconfig.cache
+C:\Users\Baloo\Documents\Proyectos C#\Declaracion de variables\Declaracion de variables\obj\Debug\net8.0\ref\Declaracion de variables.dll
